@@ -104,7 +104,7 @@ Las diferencias entre ambas respuestas pueden deberse al error muestral y al err
 Para ejecutar la aplicación en local, primero clona el repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/NOMBRE-DEL-REPOSITORIO.git
+git clone https://github.com/TU-USUARIO/NOMBRE-DEL-REPOSITORIO.git](https://github.com/pmonrocle/ARMA-IRF-Simulator as NOMBRE-DEL-REPOSITORIO
 cd NOMBRE-DEL-REPOSITORIO
 ```
 
