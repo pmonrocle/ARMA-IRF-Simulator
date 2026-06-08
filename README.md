@@ -8,7 +8,7 @@ Esta aplicación nace como material computacional complementario del artículo:
 
 **Monrocle Arribas, P. (2025). *Análisis de Modelos de Series Temporales Univariantes: Modelos ARMA*. Documento de Trabajo / Working Paper.**
 
-El artículo desarrolla una introducción didáctica y rigurosa al análisis de modelos estadísticos de series temporales univariantes, con especial atención a los procesos AR, MA y ARMA, y la metodología Box-Jenkins, la identificación, estimación, diagnosis y predicción de modelos.
+El artículo desarrolla una introducción didáctica y rigurosa al análisis de modelos estadísticos de series temporales univariantes, especificamente los procesos AR, MA y ARMA, mediante la metodología Box-Jenkins, basado en las etapas de identificación, estimación, diagnosis y predicción de modelos.
 
 La aplicación permite trasladar parte de esa discusión teórica a un entorno interactivo, de forma que el lector pueda modificar parámetros, simular procesos y observar visualmente cómo cambia la dinámica temporal del modelo.
 
