@@ -1,6 +1,6 @@
 # Simulador AR / MA / ARMA e IRF
 
-<img width="1910" height="940" alt="image" src="https://github.com/user-attachments/assets/09bd06ad-c921-4727-bde6-6f91a056736e" />
+<img width="1828" height="791" alt="image" src="https://github.com/user-attachments/assets/c7554c59-2347-48ef-8805-d8575bdc2340" />
 
 Aplicación interactiva desarrollada en **Python** y **Streamlit** para simular procesos autorregresivos, de media móvil y ARMA, analizar sus condiciones de estacionariedad e invertibilidad, y visualizar sus funciones de respuesta al impulso.
 
@@ -8,7 +8,7 @@ Esta aplicación nace como material computacional complementario del artículo:
 
 **Monrocle Arribas, P. (2025). *Análisis de Modelos de Series Temporales Univariantes: Modelos ARMA*. Documento de Trabajo / Working Paper.**
 
-El artículo desarrolla una introducción didáctica y rigurosa al análisis de modelos estadísticos de series temporales univariantes, con especial atención a los procesos AR, MA y ARMA, la metodología Box-Jenkins, la identificación, estimación, diagnosis y predicción de modelos.
+El artículo desarrolla una introducción didáctica y rigurosa al análisis de modelos estadísticos de series temporales univariantes, con especial atención a los procesos AR, MA y ARMA, y la metodología Box-Jenkins, la identificación, estimación, diagnosis y predicción de modelos.
 
 La aplicación permite trasladar parte de esa discusión teórica a un entorno interactivo, de forma que el lector pueda modificar parámetros, simular procesos y observar visualmente cómo cambia la dinámica temporal del modelo.
 
@@ -16,10 +16,7 @@ La aplicación permite trasladar parte de esa discusión teórica a un entorno i
 
 La aplicación puede ejecutarse en Streamlit Community Cloud:
 
-```text
-https://arma-irf-simulator-jpsuygmgjdb6jaweagyvfu.streamlit.app/
-```
-
+[Acceder a la aplicación](https://arma-irf-simulator-jpsuygmgjdb6jaweagyvfu.streamlit.app/)
 
 ## Objetivo
 
@@ -104,8 +101,8 @@ Las diferencias entre ambas respuestas pueden deberse al error muestral y al err
 Para ejecutar la aplicación en local, primero clona el repositorio:
 
 ```bash
-git clone https://github.com/pmonrocle/ARMA-IRF-Simulator as NOMBRE-DEL-REPOSITORIO
-cd NOMBRE-DEL-REPOSITORIO
+git clone https://github.com/pmonrocle/ARMA-IRF-Simulator.git
+cd ARMA-IRF-Simulator
 ```
 
 Después instala las dependencias:
@@ -164,7 +161,6 @@ Algunos ejemplos:
 
 **Pablo Monrocle Arribas**
 
-
 ## Referencia del artículo asociado
 
 Monrocle Arribas, P. (2025). *Análisis de Modelos de Series Temporales Univariantes: Modelos ARMA*. Documento de Trabajo / Working Paper.
@@ -179,7 +175,7 @@ Si se utiliza esta aplicación como material de apoyo, puede citarse como:
   title = {Simulador AR / MA / ARMA e IRF},
   year = {2025},
   note = {Aplicación computacional complementaria del working paper Análisis de Modelos de Series Temporales Univariantes: Modelos ARMA},
-  url = {https://github.com/TU-USUARIO/NOMBRE-DEL-REPOSITORIO}
+  url = {https://github.com/pmonrocle/ARMA-IRF-Simulator}
 }
 ```
 
@@ -188,8 +184,3 @@ Si se utiliza esta aplicación como material de apoyo, puede citarse como:
 Este proyecto se publica con fines educativos y divulgativos.
 
 El artículo asociado es un documento de trabajo del autor. Para citar o distribuir el artículo, debe respetarse la indicación establecida en el propio documento.
-
-
-## Licencia
-
-Este proyecto se publica con fines educativos y divulgativos.
