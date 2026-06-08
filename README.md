@@ -141,6 +141,7 @@ ARMA-IRF-Simulator/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+└── paper
 ```
 
 ## Interpretación económica y estadística
