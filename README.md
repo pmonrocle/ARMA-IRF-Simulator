@@ -119,23 +119,9 @@ Por ejemplo:
 * Parámetros negativos pueden generar dinámicas oscilatorias.
 * La IRF estimada se aproxima mejor a la teórica cuando el tamaño muestral aumenta.
 
-## Posibles extensiones
-
-Algunas mejoras futuras del proyecto podrían ser:
-
-* Añadir modelos ARIMA con diferenciación.
-* Incorporar modelos SARIMA con estacionalidad.
-* Permitir la descarga de los datos simulados.
-* Añadir intervalos de confianza para la IRF estimada.
-* Incluir un panel con los coeficientes estimados del modelo ARIMA.
-* Añadir gráficos de ACF y PACF.
-* Publicar la aplicación en Streamlit Community Cloud.
-
 ## Autor
 
 **Pablo Monrocle Arribas**
-
-Economista cuantitativo con interés en econometría aplicada, series temporales, macroeconomía cuantitativa, análisis de datos y modelos de riesgo.
 
 ## Licencia
 
