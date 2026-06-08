@@ -1,4 +1,6 @@
 # Simulador AR / MA / ARMA e IRF
+<img width="1910" height="940" alt="image" src="https://github.com/user-attachments/assets/09bd06ad-c921-4727-bde6-6f91a056736e" />
+
 
 Aplicación interactiva desarrollada en **Python** y **Streamlit** para simular procesos autorregresivos, de media móvil y ARMA, analizar sus condiciones de estacionariedad e invertibilidad, y visualizar sus funciones de respuesta al impulso.
 
