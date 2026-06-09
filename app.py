@@ -1,3 +1,11 @@
+"""
+Simulador AR / MA / ARMA e IRF
+Aplicación de simulación de procesos estocásticos y su IRF teorica vs estimada
+
+Autor: Pablo Monrocle Arribas
+Copyright (c) 2025 Pablo Monrocle Arribas. Todos los derechos reservados.
+"""
+
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
