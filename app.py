@@ -145,7 +145,7 @@ with right:
     ax2.stem(h, irf_theoretical, basefmt=" ", label="Teórica")
 
     if show_estimated and irf_estimated is not None:
-        ax2.plot(np.arange(len(irf_estimated)), irf_estimated, marker="o", color="red", label="Estimada")
+        ax2.plot(np.arange(len(irf_estimated)), irf_estimated, marker="o", color="green", label="Estimada")
 
     ax2.axhline(0, color="black", linewidth=0.8)
     ax2.set_xlabel("Horizonte")
