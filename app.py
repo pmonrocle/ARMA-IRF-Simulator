@@ -142,7 +142,7 @@ with right:
     fig2, ax2 = plt.subplots(figsize=(8, 4))
 
     h = np.arange(len(irf_theoretical))
-    ax2.stem(h, irf_theoretical, basefmt=" ", color="blue", label="Teórica")
+    ax2.stem(h, irf_theoretical, basefmt=" ", label="Teórica")
 
     if show_estimated and irf_estimated is not None:
         ax2.plot(np.arange(len(irf_estimated)), irf_estimated, marker="o", color="red", label="Estimada")
