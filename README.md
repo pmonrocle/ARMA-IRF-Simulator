@@ -8,7 +8,7 @@ Aplicación interactiva desarrollada en **Python** y **Streamlit** para simular 
 
 Esta aplicación nace como material computacional complementario del artículo:
 
-**Monrocle Arribas, P. (2025). *Análisis de Modelos de Series Temporales Univariantes: Modelos ARMA*. Documento de Trabajo / Working Paper.**
+**Monrocle Arribas, P. (2025). *Análisis de Modelos de Series Temporales Univariantes: Modelos ARMA*. Notas de trabajo/ Working Notes.**
 
 El artículo desarrolla una introducción didáctica y rigurosa al análisis de modelos estadísticos de series temporales univariantes, especificamente los procesos AR, MA y ARMA, mediante la metodología Box-Jenkins, basado en las etapas de identificación, estimación, diagnosis y predicción de modelos.
 
@@ -166,7 +166,7 @@ Algunos ejemplos:
 
 ## Referencia del artículo asociado
 
-Monrocle Arribas, P. (2025). *Análisis de Modelos de Series Temporales Univariantes: Modelos ARMA*. Documento de Trabajo / Working Paper.
+Monrocle Arribas, P. (2025). *Análisis de Modelos de Series Temporales Univariantes: Modelos ARMA*. Notas de trabajo/ Working Notes.
 
 ## Cómo citar este repositorio
 
@@ -177,7 +177,7 @@ Si se utiliza esta aplicación como material de apoyo, puede citarse como:
   author = {Monrocle Arribas, Pablo},
   title = {Simulador AR / MA / ARMA e IRF},
   year = {2025},
-  note = {Aplicación computacional complementaria del working paper Análisis de Modelos de Series Temporales Univariantes: Modelos ARMA},
+  note = {Aplicación computacional complementaria del working note Análisis de Modelos de Series Temporales Univariantes: Modelos ARMA},
   url = {https://github.com/pmonrocle/ARMA-IRF-Simulator}
 }
 ```
