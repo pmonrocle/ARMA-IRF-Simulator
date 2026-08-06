@@ -81,8 +81,8 @@ y_t =
 + \varepsilon_t
 + \theta_1 \varepsilon_{t-1}
 + \cdots
-+ \theta_q \varepsilon_{t-q}
-\quad
++ \theta_q \varepsilon_{t-q},
+\qquad
 \varepsilon_t \sim WN(0, \sigma^2)
 ```
 
