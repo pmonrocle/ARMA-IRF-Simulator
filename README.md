@@ -83,7 +83,10 @@ y_t =
 + \cdots
 + \theta_q \varepsilon_{t-q}
 ```
+```math
 \quad
+...
+
 ```math
 \varepsilon_t \sim WN(0, \sigma^2)
 ```
