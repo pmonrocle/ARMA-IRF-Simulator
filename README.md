@@ -4,7 +4,7 @@
 
 
 
-Aplicación interactiva desarrollada en **Python** y **Streamlit** para simular procesos autorregresivos, de media móvil y ARMA, analizar sus condiciones de estacionariedad e invertibilidad, y visualizar sus funciones de respuesta al impulso.
+Aplicación desarrollada en **Python** y publicada en **Streamlit** para simular procesos autorregresivos, de media móvil y ARMA, analizar sus condiciones de estacionariedad e invertibilidad, y visualizar sus funciones de respuesta al impulso.
 
 Esta aplicación nace como material computacional complementario del artículo:
 
